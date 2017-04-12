@@ -3,7 +3,10 @@ Variational Autoencoder for Materials Optimization
 
 # Required Packages ############################
   * python >= 3.4.x
-  * tensorflow >=
+  * numpy >= 1.11.x
+  * scipy >= 0.18.x
+  * pandas >= 1.11.x
+  * tensorflow >= 1.x
   * keras >= 2.x
   * combo development version
 
@@ -27,4 +30,4 @@ Variational Autoencoder for Materials Optimization
 
 ## Usage ################################
   1. run encoder_Si-Ge.ipynb in order to learn the variational encoder
-  2. run vamo_Si-Ge.ipynb for searching the structure with the maximum templature 
+  2. run vamo_Si-Ge.ipynb for searching the structure with the maximum templature
