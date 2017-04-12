@@ -13,12 +13,12 @@ Variational Autoencoder for Materials Optimization
 ## Install Guide ################################
   * Install COMBO with the develop version
     1. Download or clone the github repository, e.g.
-      > git clone https://github.com/tsudalab/combo.git
-      > git checkout develop
+        > git clone https://github.com/tsudalab/combo.git
+        > git checkout develop
 
     2. Run setup.py install
-      > cd combo
-      > python setup.py install
+        > cd combo
+        > python setup.py install
 
 
   * Install TensorFlow
